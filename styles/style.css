@@ -13,7 +13,7 @@ main{
 .seccion{
     height: 900px;
 }
-br{
+hr{
     border-color: #d083b9;
     border-width: 1px;
     position: relative;
